@@ -3,3 +3,5 @@ __pycache__
 env/
 token.txt
 songs_played.json
+node_modules
+.vercel

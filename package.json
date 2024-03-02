@@ -1,0 +1,12 @@
+{
+  "name": "vercel-python-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "bash build_files.sh"
+  },
+  "devDependencies": {
+    "vercel": "^19.1.1"
+  }
+}
